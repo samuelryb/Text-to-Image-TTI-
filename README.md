@@ -6,3 +6,7 @@ The dataset was annotated and tagged by induvidual team members on the Engineers
 
 A logistic regression classifier was trained on this dataset, achieving an F1 of 0.9, EM of 0.82, Precision of 0.88 and Recall of 0.92.
 
+For the current updates on this project, please visit: https://ewb.engineering.cornell.edu/business.html and https://github.com/ewbbusiness/tti-project
+
+
+
